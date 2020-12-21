@@ -18,5 +18,5 @@ As the world changes, our story will continue to unfold. But we do not change ou
 
 - EMAIL: *SALES@WAKANDA.CN*
 - TEL: *+86 0513-66814444*
-- Tmall: *[天猫店铺](wakanda.ltd)*
+- Tmall: *[天猫店铺](http://www.wakanda.ltd)*
 - Add: *Nantong, China*
