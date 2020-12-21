@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Wakanda
 
-You can use the [editor on GitHub](https://github.com/Wakanda-Inc/wakanda-inc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Wakanda Material Technology (Nantong) Co., Ltd. 
+Wakanda is a diversified technology company, focusing on developing, manufacturing and operating its own products. Focusing on the development of new material R&D and material application technology, driven by technology, based on the concept of business innovation, and based on the user’s experience, it has opened the road of reform and innovation in the application of traditional materials and promoted the development and development of new materials in China. The rapid and healthy development of the application market. Wakanda uses Internet thinking to reconstruct the material application industry and innovate its business model to lead the fission-type transformation of traditional industries. Traditional industries are also looking forward to the influx of fresh forces, pushing the industrial structure from the low-end to the high-end, and achieving industrial upgrades, breakthroughs and changes. Our mission is to solve the most challenging problems, and we drive ourselves to continuously improve the overall efficiency of the industry. As the world changes, our story will continue to unfold. But we do not change our original intentions, and will always remain curious and awe of the world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What's up
+![avator](https://cbu01.alicdn.com/img/ibank/2020/205/040/23218040502_1311074293.jpg)
+![avator](https://cbu01.alicdn.com/img/ibank/2020/615/938/23123839516_1311074293.jpg)
+![avator](https://cbu01.alicdn.com/img/ibank/2020/332/390/23037093233_1311074293.jpg)
 
-### Markdown
+### Contact us
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wakanda-Inc/wakanda-inc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- EMAIL: SALES@WAKANDA.CN
+- TEL: +86 0513-66814444
+- Tmall: [天猫店铺](wakanda.ltd)
+- Add: Nantong, China
